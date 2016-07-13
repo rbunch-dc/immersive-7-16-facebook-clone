@@ -1,0 +1,54 @@
+body{
+	font-family: 'Montserrat Alternates', sans-serif;	
+}
+
+#header-wrapper{
+	width: 100%;
+	background-color: #3B5998;
+	height: 50px;
+}
+
+#header{
+	max-width: 900px;
+	height: 50px;
+	margin: auto;
+}
+
+#logo{
+	float: left;
+}
+
+#logo img{
+	height: 50px;
+}
+
+#right-header-wrapper{
+	float: right;
+}
+
+#right-header-wrapper #search-bar{
+	float: left;
+}
+
+#right-header-wrapper #nav{
+	float: right;
+}
+
+#nav .nav-menu{
+	float: right;
+}
+
+#nav .nav-menu li{
+	float: left;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
